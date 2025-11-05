@@ -8,7 +8,7 @@ A **Betty** nasceu pra deixar os grupos mais vivos, engraçados e acolhedores, c
 
 ## ✨ Funcionalidades
 
-- 💋 Comandos divertidos e personalizados (`!marmita`, `!sapatômetro`, `!date`, e muito mais)  
+- 💋 Comandos divertidos e personalizados (`!marmita`, `!sapatômetro`, `!par`, e muito mais)  
 - 💅 Respostas com humor sáfico e naturalidade  
 - 🔄 Sistema modular — fácil de editar e expandir  
 - 🪩 Integração simples com grupos do WhatsApp  
@@ -36,9 +36,13 @@ Escaneie o QR Code com o WhatsApp e pronto — a Betty já tá online pra causar
 Se preferir clonar manualmente:
 
 git clone https://github.com/MellodyMoura/betty-bot.git
+
+bash
 cd betty-bot
 yarn install
 yarn start
+
+
 
 💜 Créditos e Inspiração
 
@@ -47,11 +51,15 @@ mas agora com melhorias, novas funções e o toque especial da Mellody Moura ✨
 
 “Feita com carisma, caos e código.” 💅
 
+
+
 🪩 Contribuições
 
 Quer contribuir com novas ideias, comandos ou melhorias?
 Fique à vontade pra abrir um pull request ou uma issue —
 aqui a gente acredita em código colaborativo e acolhedor 💬
+
+
 
 ⚠️ Aviso
 
