@@ -37,12 +37,11 @@ Se preferir clonar manualmente:
 
 git clone https://github.com/MellodyMoura/betty-bot.git
 
-bash
+```bash
 cd betty-bot
 yarn install
 yarn start
-
-
+```
 
 💜 Créditos e Inspiração
 
