@@ -37,7 +37,7 @@ bash
 Copiar código
 yarn start
 Escaneie o QR Code com o WhatsApp e… pronto!
-A Betty Bot já está pronta pra causar no bailão 💃
+A Betty Bot já está pronta pra causar 💃
 
 💜 Créditos e Inspiração
 A Betty Bot foi inspirada no incrível LBot do Leal —
